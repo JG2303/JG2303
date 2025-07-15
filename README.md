@@ -1,17 +1,15 @@
-<!-- Encabezado animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+José+Garcés;Desarrollador+Front-End;Amante+de+la+tecnolog%C3%ADa+y+los+videojuegos" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hola, soy José Garcés</h1>
+<h3 align="center">💻 Desarrollador Front-End | Apasionado por la programación y los videojuegos</h3>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 💡 Me apasiona la programación, el desarrollo web y los videojuegos.
-- 📚 Actualmente aprendiendo **React**, **Next.js** y **PHP**
-- 🚀 Buscando mi primera experiencia profesional en desarrollo web
+- 💡 Me apasiona la tecnología, el desarrollo web y los videojuegos
+- 📚 Actualmente estoy aprendiendo **React**, **Next.js** y **PHP**
+- 🚀 Buscando mi primera experiencia profesional como desarrollador
 - 🌍 Vivo en **Colombia**
-- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/) <!-- Reemplaza con tu URL real -->
+- 📫 Contáctame: [LinkedIn](www.linkedin.com/in/josegarcesc) 
 
 ---
 
@@ -45,3 +43,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
