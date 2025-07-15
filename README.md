@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy José Garcés</h1>
-<h3 align="center">💻 Desarrollador Front-End | Apasionado por la programación y los videojuegos</h3>
+<h3 align="center">💻 Desarrollador Front-End Jr | Apasionado por la programación y los videojuegos</h3>
 
 ---
 
