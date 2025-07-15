@@ -1,15 +1,22 @@
-<h1 align="center">Hola 👋, soy José Garcés</h1>
-<h3 align="center">💻 Apasionado por la programación y los videojuegos</h3>
+<!-- Encabezado animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+José+Garcés;Desarrollador+Front-End;Amante+de+la+tecnolog%C3%ADa+y+los+videojuegos" alt="Typing SVG" />
+</h1>
 
 ---
 
-- 🔭 Actualmente aprendiendo **React**, **Next.js** y **PHP**
-- 🎯 Enfocado en el desarrollo Front-End
-- 📫 Contáctame en: [LinkedIn](https://www.linkedin.com/) <!-- Cambia la URL -->
+### 👨‍💻 Sobre mí
+
+- 💡 Me apasiona la programación, el desarrollo web y los videojuegos.
+- 📚 Actualmente aprendiendo **React**, **Next.js** y **PHP**
+- 🚀 Buscando mi primera experiencia profesional en desarrollo web
+- 🌍 Vivo en **Colombia**
+- 📫 Contáctame: [LinkedIn](https://www.linkedin.com/) <!-- Reemplaza con tu URL real -->
 
 ---
 
-### 🛠️ Lenguajes y herramientas
+### 🛠️ Tecnologías y herramientas
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -22,16 +29,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JG2303&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG2303&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JG2303&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG2303&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 📫 Conecta conmigo
+### 🌐 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
